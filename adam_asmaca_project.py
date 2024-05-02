@@ -117,7 +117,7 @@ def adam_asmaca():
             
             
         if all(harf in tahmin_edilenler for harf in word):
-            print("Oyunu kazandırıp adamı asımaktan kurtardığınız için adam size minnettar.")
+            print("Oyunu kazandırıp adamı asılmaktan kurtardığınız için adam size minnettar.")
             play_again()
             break
     else:
