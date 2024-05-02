@@ -1,7 +1,7 @@
 import random
 
 tahmin_edilenler = []
-words = ["mal","totoş","faruk","televizyon","bilgisayar"]
+words = ["akıllı","kalemlik","faruk","televizyon","bilgisayar"]
 alfabe = '[ a b c ç d e f g ğ h i ı j k l m n o ö p r s ş t u ü v y z ]'
 
 sekil0 = (""
